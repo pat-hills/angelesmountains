@@ -22,7 +22,7 @@ export const Footer = () => {
 
       <div>
         <p className="font-Oswald font-black text-[#677896]">
-          COPYRIGHT 2023. ALL RIGHTS RESERVED.
+          COPYRIGHT 2023. ARTHUR TASK ALL RIGHTS RESERVED.
         </p>
       </div>
     </footer>
